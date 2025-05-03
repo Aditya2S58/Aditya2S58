@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Aditya Saxena
 
-Welcome to my GitHub! I'm a passionate Data Scientist, Developer, and Digital Marketer working with Python, R, Power BI, and web technologies. I enjoy building intelligent systems, visual dashboards, and solving real-world problems.
+Welcome to my GitHub! I'm a passionate Data Scientist,Software Developer,Python, R, Power BI,Tableau and web technologies . I enjoy building intelligent systems, visual dashboards, and solving real-world problems.
 
 ---
 
